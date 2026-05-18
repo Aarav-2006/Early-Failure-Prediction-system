@@ -238,6 +238,6 @@ Example output:
 ---
 
 # Authors
-Aarav Jhawar
-Dhruv Nyati
+Aarav Jhawar,
+Dhruv Nyati,
 Phani Gande
